@@ -1,0 +1,9 @@
+Orange 12.57
+Plum 8.77
+Apple 25.38
+Grape 12.52
+Kiwi 8.71
+Apple 23.59
+Orange 14.72
+Quince 16.81
+Plum 9.54
